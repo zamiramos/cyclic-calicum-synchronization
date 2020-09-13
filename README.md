@@ -35,7 +35,7 @@ Bo Sun, sunb@physics.oregonstate.edu
 ## How to run?
 1. running bash command to install the conda env - ./install_env.sh
 2. activate the environment
-3. runnign jupyter/vscode using this enviroment.
+3. running jupyter/vscode using this enviroment.
 
 Please contact zamiramos@gmail.com or assafzar@gmail.com for bugs or questions.
 
